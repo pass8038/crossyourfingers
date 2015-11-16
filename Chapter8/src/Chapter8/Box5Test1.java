@@ -1,5 +1,7 @@
 package Chapter8;
 
+
+	
 class Box5 {
 	int width;
 	int height;
@@ -28,8 +30,10 @@ class Box5 {
 		height = h;
 		depth = d;
 	}
+}
 
-
+public class Box5Test1 {
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Box5 mybox1 = new Box5();
